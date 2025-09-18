@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/darkhan/workspace/trial_1/build/CMakeFiles/bootloader
+/home/darkhan/workspace/trial_1/build/CMakeFiles/bootloader.rule
+/home/darkhan/workspace/trial_1/build/CMakeFiles/bootloader-complete.rule
+/home/darkhan/workspace/trial_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/darkhan/workspace/trial_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/darkhan/workspace/trial_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/darkhan/workspace/trial_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/darkhan/workspace/trial_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/darkhan/workspace/trial_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/darkhan/workspace/trial_1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

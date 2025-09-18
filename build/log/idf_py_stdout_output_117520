@@ -1,0 +1,5 @@
+Command: ninja all
+[0/1] Re-running CMake...
+-- Configuring incomplete, errors occurred!
+FAILED: build.ninja 
+/home/darkhan/.espressif/tools/cmake/3.30.2/bin/cmake --regenerate-during-build -S/home/darkhan/workspace/trial_1 -B/home/darkhan/workspace/trial_1/build

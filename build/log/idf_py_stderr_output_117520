@@ -1,0 +1,10 @@
+Command: ninja all
+CMake Error at /home/darkhan/esp/esp-idf/tools/cmake/project.cmake:472 (message):
+  Directory specified in EXTRA_COMPONENT_DIRS doesn't exist:
+  /home/darkhan/workspace/trial_1/components/esp-tflite-micro
+Call Stack (most recent call first):
+  /home/darkhan/esp/esp-idf/tools/cmake/project.cmake:574 (__project_init)
+  CMakeLists.txt:10 (project)
+
+
+ninja: error: rebuilding 'build.ninja': subcommand failed
