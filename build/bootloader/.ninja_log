@@ -123,3 +123,7 @@
 3	4737	1758195603283110431	build.ninja	4e09f00f3dbea32a
 8	753	1758195603463125404	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	d61ba456ba2e202b
 8	753	1758195603463125404	/home/darkhan/workspace/trial_1/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	d61ba456ba2e202b
+9	63	1758225953334701191	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	d61ba456ba2e202b
+9	63	1758225953334701191	/home/darkhan/workspace/trial_1/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	d61ba456ba2e202b
+5	42	1758226393259552268	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	d61ba456ba2e202b
+5	42	1758226393259552268	/home/darkhan/workspace/trial_1/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	d61ba456ba2e202b

@@ -8,6 +8,8 @@
 // TFLM headers - include after confirming component works
 #ifdef CONFIG_ESP_TFLITE_MICRO_ENABLED
 #include "tensorflow/lite/micro/all_ops_resolver.h"
+#include "tensorflow/lite/micro/micro_mutable_op_resolver.h"
+#include "tensorflow/lite/micro/micro_op_resolver.h"
 #include "tensorflow/lite/micro/micro_error_reporter.h" 
 #include "tensorflow/lite/micro/micro_interpreter.h"
 #include "tensorflow/lite/micro/system_setup.h"
