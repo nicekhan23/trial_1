@@ -77,6 +77,6 @@ direct_dependencies:
 - espressif/esp-tflite-micro
 - espressif/led_strip
 - idf
-manifest_hash: 2ff239511a84f026403ba176002f5caac189204d5e57f85aa74b9def9b2974b6
+manifest_hash: b1c9a19462f3202373a8c91794eb1c6562db1f74c6553a15b6c8487318610338
 target: esp32
 version: 2.0.0

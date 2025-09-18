@@ -9846,9 +9846,9 @@ LOAD esp-idf/perfmon/libperfmon.a
 LOAD esp-idf/rt/librt.a
 LOAD esp-idf/spiffs/libspiffs.a
 LOAD esp-idf/wifi_provisioning/libwifi_provisioning.a
-LOAD esp-idf/espressif__esp-dl/libespressif__esp-dl.a
 LOAD esp-idf/espressif__esp-nn/libespressif__esp-nn.a
 LOAD esp-idf/esp-tflite-micro/libesp-tflite-micro.a
+LOAD esp-idf/espressif__esp-dl/libespressif__esp-dl.a
 LOAD esp-idf/espressif__led_strip/libespressif__led_strip.a
 LOAD esp-idf/main/libmain.a
 LOAD esp-idf/app_trace/libapp_trace.a
